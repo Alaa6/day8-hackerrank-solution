@@ -1,0 +1,22 @@
+  #btns {
+    width : 75% ;  
+
+}
+
+.button {
+      width: 30%;
+      height: 48px;
+      font-size: 24px;
+}
+
+/* [class*="btn"] {
+  float: left;
+  padding: 15px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+} */
+
+
